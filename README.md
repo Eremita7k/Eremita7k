@@ -31,8 +31,8 @@ Uma breve descrição do Projeto Dois.
 
 ## 📫 Como me contatar
 
-- **Email:** [eremita7k@example.com](mailto:isaiaseremita90@gmail.com)
-- **LinkedIn:** [Eremita7k](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+- **Email:** [isaiaseremita90@gmail.com](mailto:isaiaseremita90@gmail.com)
+- **LinkedIn:** [isaias eremita](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 
 ## ⚡ Curiosidades
 
