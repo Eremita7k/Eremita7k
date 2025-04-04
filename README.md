@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou Eremita7k! 👋
 
-<!--
-**Eremita7k/Eremita7k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou um estudante dedicado com paixão por programação, aprendizado de novas tecnologias e exploração do mundo do hacking ético e da segurança da informação. Aqui está um pouco mais sobre mim:
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** Aprendendo Python, JavaScript
+- **Frameworks:** Explorando React, Node.js
+- **Bancos de Dados:** Familiarizando-me com MySQL, MongoDB
+- **DevOps:** Experimentando com Docker
+- **Nuvem:** Começando com AWS
+
+## 🌱 Atualmente Aprendendo
+
+- Hacking Ético
+- Segurança da Informação
+- Conceitos básicos de Machine Learning
+- Conceitos avançados de JavaScript
+
+## 🚀 Projetos
+
+### [Projeto Um](https://github.com/Eremita7k/project-one)
+Uma breve descrição do Projeto Um.
+
+### [Projeto Dois](https://github.com/Eremita7k/project-two)
+Uma breve descrição do Projeto Dois.
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub de Eremita7k](https://github-readme-stats.vercel.app/api?username=Eremita7k&show_icons=true&theme=radical)
+
+## 📫 Como me contatar
+
+- **Email:** [eremita7k@example.com](mailto:eremita7k@example.com)
+- **LinkedIn:** [Eremita7k](https://www.linkedin.com/in/eremita7k/)
+- **Twitter:** [@Eremita7k](https://twitter.com/Eremita7k)
+
+## ⚡ Curiosidades
+
+- Adoro resolver quebra-cabeças e jogar jogos de estratégia.
+- Sou um ávido leitor de romances de ficção científica e fantasia.
+- Gosto de fazer trilhas e explorar novos lugares.
+- **Tenho um grande interesse em hacking ético e segurança da informação.**
+
+Obrigado por visitar meu perfil! Sinta-se à vontade para conferir meus repositórios e entrar em contato se quiser colaborar em um projeto ou apenas conversar sobre tecnologia!
